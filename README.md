@@ -12,10 +12,6 @@ The study triangulates FAERS and JADER spontaneous reporting data with clinical 
 
 No raw data are included. FAERS (fda.gov) and JADER (pmda.go.jp) are freely downloadable; INSPIRE requires PhysioNet credentialed access and a signed data use agreement (no redistribution).
 
-## Citation
-
-Li Y, Liu Y, et al., *International Journal of Nursing Sciences*, in submission 2026.
-
 ## License
 
 MIT
